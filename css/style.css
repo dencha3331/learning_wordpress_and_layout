@@ -1,43 +1,32 @@
+/* шрифты */
+
 @font-face {
     font-family: 'HelveticaNeueLTProLt';
     src:  url('../fonts/HelveticaNeueLTProLt.otf') format('OpenType');
-
   }
-
   @font-face {
     font-family: 'HelveticaNeueLTProMd';
     src:  url('../fonts/HelveticaNeueLTProMd.otf') format('OpenType');
-
   }
-
   @font-face {
     font-family: 'HelveticaNeueLTProRoman';
     src:  url('../fonts/HelveticaNeueLTProRoman.otf') format('OpenType');
-
   }
-
   @font-face {
     font-family: 'Merriweather-LightItalic';
     src:  url('../fonts/Merriweather-LightItalic.ttf') format('truetype');
-
   }
-
   @font-face {
     font-family: 'Montserrat-Light';
     src:  url('../fonts/Montserrat-Light.ttf') format('truetype');
-
   }
-
   @font-face {
     font-family: 'Montserrat-Regular';
     src:  url('../fonts/Montserrat-Regular.ttf') format('truetype');
-
   }
-
   @font-face {
     font-family: 'Roboto-Regular';
     src:  url('../fonts/Roboto-Regular.ttf') format('truetype');
-
   }
 
 /* 
@@ -49,6 +38,8 @@ font-family: 'Montserrat-Light', sans-serif;
 font-family: 'Montserrat-Regular', sans-serif;
 font-family: 'Roboto-Regular', sans-serif;
 */
+
+/* Заголовок */
 
 * {
     box-sizing: border-box;
@@ -149,6 +140,8 @@ body {
     margin: 0 auto 206px;
 }
 
+/* О нас */
+
 .about {
   
   
@@ -198,6 +191,32 @@ body {
   color: #b7b7b7;
 }
 
+/* Команда */
+
+.team {
+}
+.block__head {
+}
+.block__title {
+}
+.block__text {
+}
+.team__iner {
+}
+.team__item {
+}
+.team__item-img {
+}
+.team__item-title {
+}
+.team__item-text {
+}
+.team__icon-box {
+}
+.icon-twitter {
+}
+.icon-instagram {
+}
 
 
 
