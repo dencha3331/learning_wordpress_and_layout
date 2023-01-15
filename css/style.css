@@ -267,7 +267,33 @@ body {
   color: #989696;
 }
 
+.provide {
+}
+.block__head {
+}
+.inverse {
+}
+.block__title {
+}
+.block__text {
+}
+.provide__iner {
+}
+.provide__item {
+}
+.icon-chart-line {
+}
+.provide__item-title {
+}
+.provide__item-text {
+}
+.icon-heart {
+}
+.icon-upload-cloud-outline {
+}
 
+
+/* js menu script */
 
 .dropbtn {
   transition: 0.2s;
